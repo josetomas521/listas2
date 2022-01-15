@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+ol.nromanos{
+list-style-type: upper-roman;
+}
+
+
+
+ol.a{
+list-style-type:lower-latin ;
+}
